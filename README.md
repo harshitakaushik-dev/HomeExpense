@@ -8,17 +8,18 @@ This project explore localstorage,React Router concepts of Routing, action, load
 The application has been deployed on Netflify - https://home-expense.netlify.app/
 
 
-##Demo Images
+## Demo Images
 ### Landing Page
 <img width="959" alt="image" src="https://github.com/Amkr9955/ExpensesApp_ReactRouter/assets/112249538/c2449d93-e297-4951-ad98-401a64fe6597">
 
-### User Login 
+### Main Budgeting Page
 <img width="959" alt="image" src="https://github.com/harshitakaushik-dev/HomeExpense/assets/112249538/3fe0670e-a809-4f2d-8ebf-7c274fb12316">
 
-### Create Expenses
+### Expense Detail
+<img width="959" alt="image" src="https://github.com/harshitakaushik-dev/HomeExpense/assets/112249538/2c2f66da-116f-490e-8622-74a04c6ce79b">
 
-### Maintain Budget
-<img width="959" alt="image" src="https://github.com/harshitakaushik-dev/HomeExpense/assets/112249538/a212f184-f5d4-4a26-ab8b-a1ded2b97b40">
+
+
 ## Tech Stack
 
  React, ReactRouter, Javascript,NPM
