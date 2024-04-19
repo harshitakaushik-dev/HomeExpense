@@ -1,8 +1,11 @@
 
-# Expenses Budgeting App
+# Expenses Budgeting App 💸💰
+Hey there ! 
+Welcome to HomeBudget. It is a Budget Management web application with a seamless UI. 
+Made using React, ReactRouter and a lot of dedication, HomeBudget is the perfect example of a simple application that performs all the CRUD operations.
+The user than record their expenses, divide them to categories, see a visual represntation of the expenses incurred and lots more.
+This project explores localstorage, React Router concepts of Routing, Action, Loader, Fetcher, Multiple form submission and Link.
 
-An expenses recording app with CRUD operations build on React and ReactRouter. 
-This project explore localstorage,React Router concepts of Routing, action, loader, fetcher, multiple form submission and Link.
 
 ## Run Live 
 The application has been deployed on Netflify - https://home-expense.netlify.app/
@@ -26,34 +29,7 @@ The application has been deployed on Netflify - https://home-expense.netlify.app
 
 
 
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/
-```
-Open project directory
-
-```bash
-  cd ExpensesApp_ReactRouter
-```
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run dev
-```
-
-
 ## Acknowledgements
-
  - [React Router Documentation](https://reactrouter.com/en/main)
  - [React Documentation](https://react.dev/)
  
