@@ -1,10 +1,11 @@
 
 # Expenses Budgeting App 💸💰
 Hey there ! 
-Welcome to HomeBudget. It is a Budget Management web application with a seamless UI. 
-Made using React, ReactRouter and a lot of dedication, HomeBudget is the perfect example of a simple application that performs all the CRUD operations.
-The user than record their expenses, divide them to categories, see a visual represntation of the expenses incurred and lots more.
-This project explores localstorage, React Router concepts of Routing, Action, Loader, Fetcher, Multiple form submission and Link.
+Welcome to HomeBudget. 
+- It is a Budget Management web application with a seamless UI. 
+- Made using React, ReactRouter and a lot of dedication, HomeBudget is the perfect example of a simple application that performs all the CRUD operations.
+- The user than record their expenses, divide them to categories, see a visual represntation of the expenses incurred and lots more.
+- This project explores localstorage, React Router concepts of Routing, Action, Loader, Fetcher, Multiple form submission and Link.
 
 
 ## Run Live 
