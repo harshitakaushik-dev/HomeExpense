@@ -23,7 +23,7 @@ https://symphonious-chebakia-84f0a5.netlify.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/Amkr9955/ExpensesApp_ReactRouter.git
+  git clone https://github.com/
 ```
 Open project directory
 
