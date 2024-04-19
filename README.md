@@ -7,10 +7,7 @@ This project explore localstorage,React Router concepts of Routing, action, load
 ## Demo
 
 https://symphonious-chebakia-84f0a5.netlify.app/
-
-![image](https://github.com/Amkr9955/ExpensesApp_ReactRouter/assets/92258606/8f654208-dbba-431e-ba60-3ee940b8ce5a)
-
-
+<img width="959" alt="image" src="https://github.com/harshitakaushik-dev/HomeExpense/assets/112249538/a212f184-f5d4-4a26-ab8b-a1ded2b97b40">
 ## Tech Stack
 
  React, ReactRouter, Javascript,NPM
